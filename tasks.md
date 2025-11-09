@@ -5,7 +5,7 @@ Overall Progress: 34%
 ## public (11%)
 - [x] Set up public folder structure
 - [ ] Implement core functionality in public
-- [ ] Add error handling and validation in public
+- [ ] Add error hfandling and validation in public
 - [ ] Write tests for public
 - [ ] Implement basic Jest/Vitest tests for parsing and loading the GLB model.
 - [ ] Create a placeholder React component to display the GLB model using React Three Fiber.
