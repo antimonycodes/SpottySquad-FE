@@ -1,26 +1,5 @@
 {
   "modules": {
-    ".codegress": {
-      "tasks": [
-        {
-          "task": "Set up .codegress folder",
-          "done": true
-        },
-        {
-          "task": "Implement core logic in .codegress",
-          "done": true
-        },
-        {
-          "task": "Add validation and error handling in .codegress",
-          "done": false
-        },
-        {
-          "task": "Write tests for .codegress",
-          "done": false
-        }
-      ],
-      "progress": 50
-    },
     "public": {
       "tasks": [
         {

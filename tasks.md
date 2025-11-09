@@ -2,12 +2,6 @@
 
 Overall Progress: 50%
 
-## .codegress (50%)
-- [x] Set up .codegress folder
-- [x] Implement core logic in .codegress
-- [ ] Add validation and error handling in .codegress
-- [ ] Write tests for .codegress
-
 ## public (50%)
 - [x] Set up public folder
 - [x] Implement core logic in public
