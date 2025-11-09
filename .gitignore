@@ -2,6 +2,9 @@
 /dist
 /node_modules
 /build
+/codes
+
+.gitignore
 
 # Logs
 logs
@@ -35,6 +38,7 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
+
 # dotenv environment variable files
 .env
 .env.development.local
@@ -45,6 +49,7 @@ lerna-debug.log*
 # temp directory
 .temp
 .tmp
+
 
 # Runtime data
 pids
