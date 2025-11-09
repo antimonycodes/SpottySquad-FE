@@ -1,5 +1,5 @@
 {
-  "projectVision": "![Codegress Progress](https://img.shields.io/badge/codegress-50%25-yellow)  # React + TypeScript + Vite",
+  "projectVision": "![Codegress Progress](https://img.shields.io/badge/codegress-50%25-yellow)",
   "ignoredFolders": [
     "node_modules",
     ".git",

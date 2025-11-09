@@ -3,45 +3,85 @@
     "public": {
       "tasks": [
         {
-          "task": "Set up public folder",
+          "task": "Set up public folder structure",
           "done": true
         },
         {
-          "task": "Implement core logic in public",
-          "done": true
+          "task": "Implement core functionality in public",
+          "done": false
         },
         {
-          "task": "Add validation and error handling in public",
+          "task": "Add error handling and validation in public",
           "done": false
         },
         {
           "task": "Write tests for public",
           "done": false
+        },
+        {
+          "task": "Implement basic Jest/Vitest tests for parsing and loading the GLB model.",
+          "done": false
+        },
+        {
+          "task": "Create a placeholder React component to display the GLB model using React Three Fiber.",
+          "done": false
+        },
+        {
+          "task": "Add a basic README.md file documenting the project setup, dependencies, and usage.",
+          "done": false
+        },
+        {
+          "task": "Implement a simple data model (even a Typescript interface) to represent the structure expected from the GLB model data.",
+          "done": false
+        },
+        {
+          "task": "Set up a basic CI/CD pipeline using GitHub Actions to run linting and tests on each push.",
+          "done": false
         }
       ],
-      "progress": 50
+      "progress": 11
     },
     "src": {
       "tasks": [
         {
-          "task": "Set up src folder",
+          "task": "Set up src folder structure",
           "done": true
         },
         {
-          "task": "Implement core logic in src",
+          "task": "Implement core functionality in src",
           "done": true
         },
         {
-          "task": "Add validation and error handling in src",
+          "task": "Add error handling and validation in src",
           "done": false
         },
         {
           "task": "Write tests for src",
+          "done": true
+        },
+        {
+          "task": "Implement JSDocstyle documentation for all components and data models, focusing on prop types and function descriptions.",
           "done": false
+        },
+        {
+          "task": "Create a Storybook instance to visually document and test React components in isolation, improving maintainability and reusability.",
+          "done": false
+        },
+        {
+          "task": "Refactor `PitchScene.tsx` and `PitchView.tsx` to improve separation of concerns, potentially using a custom hook to manage scene state.",
+          "done": false
+        },
+        {
+          "task": "Implement API routes for fetching player data to decouple the front end from any hardcoded data or direct data model access.",
+          "done": true
+        },
+        {
+          "task": "Add unit tests specifically targeting the `FootballPitch` function to ensure its calculations are accurate and reliable.",
+          "done": true
         }
       ],
-      "progress": 50
+      "progress": 56
     }
   },
-  "overallProgress": 50
+  "overallProgress": 34
 }
