@@ -1,0 +1,10 @@
+{
+  "projectVision": "![Codegress Progress](https://img.shields.io/badge/codegress-50%25-yellow)  # React + TypeScript + Vite",
+  "ignoredFolders": [
+    "node_modules",
+    ".git",
+    "dist",
+    ".codeflow"
+  ],
+  "autoAI": false
+}

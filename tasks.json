@@ -1,0 +1,68 @@
+{
+  "modules": {
+    ".codegress": {
+      "tasks": [
+        {
+          "task": "Set up .codegress folder",
+          "done": true
+        },
+        {
+          "task": "Implement core logic in .codegress",
+          "done": true
+        },
+        {
+          "task": "Add validation and error handling in .codegress",
+          "done": false
+        },
+        {
+          "task": "Write tests for .codegress",
+          "done": false
+        }
+      ],
+      "progress": 50
+    },
+    "public": {
+      "tasks": [
+        {
+          "task": "Set up public folder",
+          "done": true
+        },
+        {
+          "task": "Implement core logic in public",
+          "done": true
+        },
+        {
+          "task": "Add validation and error handling in public",
+          "done": false
+        },
+        {
+          "task": "Write tests for public",
+          "done": false
+        }
+      ],
+      "progress": 50
+    },
+    "src": {
+      "tasks": [
+        {
+          "task": "Set up src folder",
+          "done": true
+        },
+        {
+          "task": "Implement core logic in src",
+          "done": true
+        },
+        {
+          "task": "Add validation and error handling in src",
+          "done": false
+        },
+        {
+          "task": "Write tests for src",
+          "done": false
+        }
+      ],
+      "progress": 50
+    }
+  },
+  "overallProgress": 50
+}
